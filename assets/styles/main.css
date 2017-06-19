@@ -4827,14 +4827,14 @@ fieldset[disabled] .form-control:hover {
 
 .team-3col .t-item .t-image, .team-4col .t-item .t-image, .freelancer-about .t-item .t-image {
   position: relative;
-  height: 375px;
+  height: 100%;
   overflow: hidden;
 }
 
 .team-3col .t-item .t-image .t-description, .team-4col .t-item .t-image .t-description, .freelancer-about .t-item .t-image .t-description {
   display: block;
   position: absolute;
-  padding: 100px 30px 30px 30px;
+  padding: 30px 30px 30px 30px;
   bottom: -100%;
   left: 0;
   height: 100%;
